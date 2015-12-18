@@ -1,0 +1,19 @@
+-source
+1.8
+-target
+1.8
+-d
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\retrolambda\\debug"
+-g
+-encoding
+UTF-8
+-bootclasspath
+D:\\Android\\sdk\\platforms\\android-23\\android.jar
+-sourcepath
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\tmp\\compileDebugJavaWithJavac\\emptySourcePathRef"
+-classpath
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\23.1.1\\jars\\classes.jar;C:\\Users\\admin\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-runtime\\1.0.0-beta-3595\\5f3e80245f4d8a42370eb53a5fd65721d02236cd\\kotlin-runtime-1.0.0-beta-3595.jar;D:\\Android\\sdk\\extras\\android\\m2repository\\com\\android\\support\\support-annotations\\23.1.1\\support-annotations-23.1.1.jar;Q:\\Users\\RoboVM tests\\KotlinW\\core\\build\\libs\\core.jar;Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\intermediates\\exploded-aar\\com.android.support\\support-v4\\23.1.1\\jars\\libs\\internal_impl-23.1.1.jar;Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\jars\\classes.jar;C:\\Users\\admin\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib\\1.0.0-beta-3595\\fa058466a7ed0b393db7868986b603706968ee2b\\kotlin-stdlib-1.0.0-beta-3595.jar;Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\tmp\\kotlin-classes\\debug;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\rt.jar"
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\generated\\source\\r\\debug\\android\\support\\v7\\appcompat\\R.java"
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\generated\\source\\r\\debug\\pl\\icompass\\kotlin\\R.java"
+"Q:\\Users\\RoboVM tests\\KotlinW\\android\\build\\generated\\source\\buildConfig\\debug\\pl\\icompass\\kotlin\\BuildConfig.java"
+-XDuseUnsharedTable=true
