@@ -1,0 +1,4 @@
+# Files not exported to source package
+.gitattributes export-ignore
+.gitignore export-ignore
+payment-application/src/main/java/pl/icompass/paymax/mobile/payment/reader/mock export-ignore
