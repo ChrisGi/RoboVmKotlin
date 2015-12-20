@@ -42,3 +42,5 @@ build/
 .gradle/
 tms-api/build/
 local.properties
+.idea
+*.iml
